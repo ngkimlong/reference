@@ -13,7 +13,7 @@ class Hung
 		echo "Hello Word";
 	}
 	
-	function whoAmI() {
-		echo "I am Batman";
+	function who() {
+		echo "Mr.Hung";
 	}	
 }
