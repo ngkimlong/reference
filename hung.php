@@ -12,4 +12,8 @@ class Hung
 	function helloWord() {
 		echo "Hello Word";
 	}
+	
+	function who() {
+		echo "Mr.Hung";
+	}	
 }
