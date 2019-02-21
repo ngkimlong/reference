@@ -11,5 +11,9 @@ class Duy
     
 	function helloWord() {
 		echo "Hello Word";
-	}
+    }
+    
+    function add() {
+        return 1 + 2;
+    }
 }
